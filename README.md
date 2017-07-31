@@ -5,7 +5,7 @@ blog is a Django powered app with advanced features.
 Usage
 -
 
-add `blog` to your `settings.py` file.
+add `blog` to your `INSTALLED_APPS`.
 
 on top of your `settings.py` file add the line below.
 
